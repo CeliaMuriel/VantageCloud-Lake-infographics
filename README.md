@@ -3,7 +3,7 @@
 ## What VantageCloud is
 
 Teradata offers solutions to keep your data warehouse or data lakehouse in the three leading Service Cloud Providers: AWS, Azure and Google Cloud Platform. The umbrella term for this offering is VantageCloud.
-* VantageCloud Lake (VCL or Lake) is the new Teradata cloud-native database. It is ideal for both data lakehouses and data warehouses. Furthermore, Lake is built to optimise cost storage while speeding up the response to your critical queries.
+* VantageCloud Lake (VCL or Lake) is the Teradata cloud-native database. It is ideal for both data lakehouses and data warehouses. Furthermore, Lake is built to optimise cost storage while speeding up the response to your critical queries.
 * VantageCloud Enterprise (VCE) is the solution to hosting large data warehouses in the Cloud. It is meant to optimise performance and uses the traditional Teradata architecture.
 
 Lake and Enterprise offer the complete set of Teradata analytic functions for Machine Learning, Data Science, and traditional reporting in a bundle called ClearScape Analytics.
