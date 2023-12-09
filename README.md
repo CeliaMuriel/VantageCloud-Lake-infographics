@@ -1,4 +1,4 @@
-# VantageCloud Enterprise infographics
+# VantageCloud Lake infographics
 
 ## What VantageCloud is
 
