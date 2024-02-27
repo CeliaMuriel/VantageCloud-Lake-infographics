@@ -10,12 +10,12 @@ Lake and Enterprise offer the complete set of Teradata analytic functions for Ma
 
 ## Lake infographics: the content of this repository
 
-I gather high-resolution infographics and cheat sheets in this repository, each dedicated to explaining a VantageCloud **Lake** feature or the different setup options.
+In this repository, I gather high-resolution infographics, cheat sheets and other assets, each dedicated to explaining a VantageCloud **Lake** feature or the different setup options.
 
-I published every infographic in separate posts on [my blog](https://celiamuriel.com/) with some further details. You have below a list with every article and a summary of its content:
+I published every asset in separate posts on [my blog](https://celiamuriel.com/) with further details. You have below a list with every article and a summary of its content:
 * [VantageCloud Lake in a Nutshell](https://celiamuriel.com/vantagecloud-lake-in-a-nutshell/) summarises the critical VantageCloud Lake elements and the basis for using them for a quick start. The post shows the [VantageCloud Lake in a Nutshell infographic](https://github.com/CeliaMuriel/VantageCloud-Lake-infographics/blob/main/VantageCloud%20Lake%20in%20a%20Nutshell.jpg).
 
-This repository doesn't include an exhaustive list of all Lake configuration options and features, but it gathers the infographics I made when I needed to explain something to a customer.
+This repository doesn't include an exhaustive list of all Lake configuration options and features, but it gathers the assets I made when I needed.
 
 If you want to know more about Teradata's offering or specific details that my infographics don't cover, check the following sites:
 * [Teradata online documentation](https://docs.teradata.com/).
