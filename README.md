@@ -14,7 +14,7 @@ In this repository, I gather high-resolution infographics, cheat sheets and othe
 
 I published every asset in separate posts on [my blog](https://celiamuriel.com/) with further details. You have below a list with every article and a summary of its content:
 * [VantageCloud Lake in a Nutshell](https://celiamuriel.com/vantagecloud-lake-in-a-nutshell/) summarises the critical VantageCloud Lake elements and the basis for using them for a quick start. The post shows the [VantageCloud Lake in a Nutshell infographic](https://github.com/CeliaMuriel/VantageCloud-Lake-infographics/blob/main/VantageCloud%20Lake%20in%20a%20Nutshell.jpg).
-* [Flow in VantageCloud Lake - Cookbook to Make it Work in AWS](https://github.com/CeliaMuriel/VantageCloud-Lake-infographics/blob/main/Flow%20in%20VantageCloud%20Lake%20-%20Cookbook%20to%20Make%20it%20Work%20in%20AWS.pdf) gathers all my lessons learnt the first time I used Flow.
+* [Flow in VantageCloud Lake - Cookbook to Make it Work in AWS](https://github.com/CeliaMuriel/VantageCloud-Lake-infographics/blob/main/Flow%20in%20VantageCloud%20Lake%20-%20Cookbook%20to%20Make%20it%20Work%20in%20AWS.pdf) gathers all my lessons learnt the first time I used Flow. You can learn more about Flow in the post [Flow in VantageCloud Lake: From Bust to Boom in Data Ingestion to Insights](https://celiamuriel.com/flow-in-vantagecloud-lake-from-bust-to-boom-in-data-ingestion-to-insights/).
 
 This repository doesn't include an exhaustive list of all Lake configuration options and features, but it gathers the assets I made when needed.
 
